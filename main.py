@@ -1,5 +1,3 @@
-# Connor Susajlo
-# Student ID: 001552612
 from datetime import time, datetime, timedelta, date
 from Truck import Truck
 from HashTabler import HashTable
